@@ -9,7 +9,7 @@ import numpy as np
 import time
 
 print('Presione cualquier tecla para pausar o reanudar')
-print('Presiones ESC para salir')
+print('Presione ESC para salir')
 
 #%% JUEGO DE LA VIDA
 pygame.init()
